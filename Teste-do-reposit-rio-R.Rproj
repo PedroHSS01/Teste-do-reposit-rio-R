@@ -7,3 +7,5 @@ a - z
 x = a + z
 x
 x + a
+x / z
+2 * 5
