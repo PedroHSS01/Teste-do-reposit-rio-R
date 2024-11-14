@@ -1,0 +1,9 @@
+z = 10
+a = 25
+a + z
+a / z
+a ^ z
+a - z
+x = a + z
+x
+x + a
